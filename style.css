@@ -1,0 +1,24 @@
+p{
+  font-family:georgia;
+  color:black;
+}
+#a {
+  font-family:Verdana;
+  color:black;
+}
+body{
+  background-color:#d61616;
+}
+a{
+  color:black;
+}
+a:hover{
+  color: rgb(250, 250, 250);
+}
+a:active{
+  color: black;
+}
+#b {
+  font-family:georgia;
+  font-size: 80%;
+}
